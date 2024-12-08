@@ -1,1 +1,1 @@
-https://chucknorrissvtipy.netlify.app
+https://chucknorrisvtipy.netlify.app
